@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name:	SHIFT - Get Included Parts
-Plugin URI:		https://github.com/nebulodesign/shift-sortable/
+Plugin URI:		https://github.com/nebulodesign/shift-get-included-parts/
 Description:	Displays a list of currently included template parts in the Admin Bar
 Version:			1.0
 Author:				Nebulo Design
